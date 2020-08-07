@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/romualdo/gamebite10/learning-cmake/003-shared-library/include/MyClass.h
+string
+-
+
+/home/romualdo/gamebite10/learning-cmake/005-using-libraries/src/main.cpp
+iostream
+-
+MyClass.h
+/home/romualdo/gamebite10/learning-cmake/005-using-libraries/src/MyClass.h
+

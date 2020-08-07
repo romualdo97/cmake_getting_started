@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/usingLibs.dir/src/main.cpp.o  -o usingLibs  -L/home/romualdo/gamebite10/learning-cmake/003-shared-library/build -Wl,-rpath,/home/romualdo/gamebite10/learning-cmake/003-shared-library/build -lHelloSharedObject 

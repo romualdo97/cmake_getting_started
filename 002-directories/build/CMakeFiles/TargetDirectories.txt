@@ -1,0 +1,3 @@
+/home/romualdo/gamebite10/learning-cmake/002-directories/build/CMakeFiles/rebuild_cache.dir
+/home/romualdo/gamebite10/learning-cmake/002-directories/build/CMakeFiles/edit_cache.dir
+/home/romualdo/gamebite10/learning-cmake/002-directories/build/CMakeFiles/myExecutable.dir

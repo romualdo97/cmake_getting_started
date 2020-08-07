@@ -1,0 +1,7 @@
+/home/romualdo/gamebite10/learning-cmake/004-static-library/build/CMakeFiles/install/local.dir
+/home/romualdo/gamebite10/learning-cmake/004-static-library/build/CMakeFiles/install.dir
+/home/romualdo/gamebite10/learning-cmake/004-static-library/build/CMakeFiles/MyFirstStaticLibrary.dir
+/home/romualdo/gamebite10/learning-cmake/004-static-library/build/CMakeFiles/install/strip.dir
+/home/romualdo/gamebite10/learning-cmake/004-static-library/build/CMakeFiles/edit_cache.dir
+/home/romualdo/gamebite10/learning-cmake/004-static-library/build/CMakeFiles/rebuild_cache.dir
+/home/romualdo/gamebite10/learning-cmake/004-static-library/build/CMakeFiles/list_install_components.dir
